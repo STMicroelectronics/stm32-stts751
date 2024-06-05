@@ -19,7 +19,7 @@ Two models of publication are proposed for the STM32Cube embedded software:
 
 ## Description
 
-This **stm32-stts751** MCU component repository is one element **common to all** STM32Cube MCU embedded software packages, providing the **STM32-STTS751** BSP TEMPERATURE SENSOR component part.
+This **stm32-stts751** MCU component repository is one element **common to all** STM32Cube MCU embedded software packages, providing the **STTS751** BSP temperature sensor component part.
 
 ## Release note
 
@@ -27,7 +27,7 @@ Details about the content of this release are available in the release note [her
 
 ## Compatibility information
 
-Please refer to the repository of the BSP **board** driver you are using to know which version of this BSP component driver to use. It is **crucial** that you use a consistent set of versions. It is **crucial** that you use a consistent set of versions as indicated.
+Please refer to the repository of the BSP **board** driver you are using to know which version of this BSP component driver to use. It is **crucial** that you use a consistent set of versions as indicated.
 
 ## Troubleshooting
 
