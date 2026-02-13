@@ -1,5 +1,7 @@
 # BSP STM32-STTS751 Component
 
+![tag](https://img.shields.io/badge/tag-v1.6.0-brightgreen.svg)
+
 ## Overview
 
 **STM32Cube** is an STMicroelectronics original initiative to ease developers' life by reducing efforts, time and cost.
@@ -21,7 +23,7 @@ This **stm32-stts751** MCU component repository is one element **common to all**
 
 ## Release note
 
-Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/stm32-stts751/blob/main/Release_Notes.html).
+Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/stm32-stts751/blob/bspv1/Release_Notes.html).
 
 ## Compatibility information
 
